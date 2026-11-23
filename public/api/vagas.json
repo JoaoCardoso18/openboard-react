@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "empresa": "Lumen",
+    "cargo": "Full-stack Engineer",
+    "salario": "R$ 20k-30k",
+    "modelo": "Remoto",
+    "tipo": "Efetivo",
+    "area": "Engenharia",
+    "publicada": "4h",
+    "descricao": "Desenvolvimento de ponta a ponta da plataforma principal, do banco de dados à interface."
+  },
+  {
+    "id": 2,
+    "empresa": "SATC Labs",
+    "cargo": "Front-end Engineer",
+    "salario": "R$ 12k-18k",
+    "modelo": "Híbrido",
+    "tipo": "Efetivo",
+    "area": "Engenharia",
+    "publicada": "2h",
+    "descricao": "Construção de interfaces em React para os produtos do laboratório."
+  },
+  {
+    "id": 3,
+    "empresa": "SATC Labs",
+    "cargo": "Product Designer",
+    "salario": "R$ 8k-12k",
+    "modelo": "Remoto",
+    "tipo": "Efetivo",
+    "area": "Design",
+    "publicada": "2d",
+    "descricao": "Pesquisa e interface do produto principal."
+  },
+  {
+    "id": 4,
+    "empresa": "Google",
+    "cargo": "Estágio em Engenharia de Dados",
+    "salario": "R$ 2,5k",
+    "modelo": "Presencial",
+    "tipo": "Estágio",
+    "area": "Engenharia",
+    "publicada": "6h",
+    "descricao": "Apoio na criação de pipelines de dados e relatórios internos."
+  },
+  {
+    "id": 5,
+    "empresa": "Microsoft",
+    "cargo": "Estágio em UX Design",
+    "salario": "R$ 2,8k",
+    "modelo": "Híbrido",
+    "tipo": "Estágio",
+    "area": "Design",
+    "publicada": "1d",
+    "descricao": "Participação em testes com usuários e criação de protótipos no Figma."
+  },
+  {
+    "id": 6,
+    "empresa": "Nubank",
+    "cargo": "Product Manager",
+    "salario": "R$ 18k-25k",
+    "modelo": "Remoto",
+    "tipo": "Efetivo",
+    "area": "Gestão",
+    "publicada": "3d",
+    "descricao": "Definição de roadmap e prioridades do time de cartões."
+  },
+  {
+    "id": 7,
+    "empresa": "Betha",
+    "cargo": "Scrum Master",
+    "salario": "R$ 9k-13k",
+    "modelo": "Presencial",
+    "tipo": "Temporário",
+    "area": "Gestão",
+    "publicada": "5h",
+    "descricao": "Contrato de seis meses para conduzir a transição dos times para Scrum."
+  },
+  {
+    "id": 8,
+    "empresa": "Pixel Studio",
+    "cargo": "Designer Gráfico",
+    "salario": "R$ 5k-7k",
+    "modelo": "Remoto",
+    "tipo": "Temporário",
+    "area": "Design",
+    "publicada": "1d",
+    "descricao": "Criação de peças para uma campanha de fim de ano."
+  }
+]
